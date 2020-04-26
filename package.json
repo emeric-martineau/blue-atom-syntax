@@ -1,0 +1,17 @@
+{
+  "name": "blue-atom-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A light syntax theme for Atom work with Blue Atom UI",
+  "keywords": [
+    "syntax",
+    "theme",
+    "light",
+    "blue atom ui"
+  ],
+  "repository": "https://github.com/emeric-martineau/blue-atom-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}
